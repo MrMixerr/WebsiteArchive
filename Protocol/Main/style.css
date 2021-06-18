@@ -61,7 +61,7 @@ a{
 .gam:hover,
 .gam:focus{
     opacity: 70%;
-    width: 13em;
+    transform: scale(1.1);
 }
 .txtgam{
     margin-bottom: 0.5em;
